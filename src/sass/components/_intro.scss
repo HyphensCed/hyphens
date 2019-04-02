@@ -1,0 +1,35 @@
+/*=============================================
+=            INTRO ANIMATION                  =
+=============================================*/
+svg{
+    width: 100%;
+    max-width: 100vw;
+    height: 100vh;
+}
+
+.big-dot--yellow,
+.big-dot--red,
+.big-dot--purple {
+    //opacity: 0;
+    transform-origin: center;
+}
+
+.dots{
+    opacity: 0;
+}
+
+.dot--purple,
+.dot--red,
+.dot--yellow{
+    opacity: 0;
+}
+
+
+
+
+
+
+/*=====  End of INTRO  ======*/
+
+
+
